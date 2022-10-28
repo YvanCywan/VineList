@@ -7,5 +7,5 @@ Config.WhitelistRoles = {
 }
 
 Config.BlacklistRoles = {
-    'Banned
+    'Banned'
 }
